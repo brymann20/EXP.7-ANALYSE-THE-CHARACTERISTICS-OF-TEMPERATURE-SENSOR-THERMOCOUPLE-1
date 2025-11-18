@@ -1,7 +1,7 @@
 # EXP.7-ANALYSE-THE-CHARACTERISTICS-OF-TEMPERATURE-SENSOR-THERMOCOUPLE-1
 
 ## Aim:
-To understand the working Principle of Thermocouple.
+To understand the working Principle of Thermocouple..
 
 ## Step by step Procedure:
 
