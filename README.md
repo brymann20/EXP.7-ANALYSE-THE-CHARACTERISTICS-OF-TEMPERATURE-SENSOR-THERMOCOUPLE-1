@@ -39,3 +39,4 @@ Reference Temperature:
 Output temperature: 
 
 ## Result: 
+Thus we understand the working Principle of Thermocouple.
